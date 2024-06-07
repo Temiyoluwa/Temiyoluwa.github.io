@@ -1,4 +1,5 @@
 # Temiyoluwa.github.io
-theme: Architect
----
+--
+remote_theme: Cayman
+--
 theme: jekyll-theme-minimal
